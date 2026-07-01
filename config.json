@@ -1,0 +1,6 @@
+{
+  "python_version": "3.11.9",
+  "python_download_url": "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip",
+  "rustpython_marker": "RUSTPYZ0",
+  "local_env_dir_name": "python_env"
+}
